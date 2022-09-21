@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @vladimirovsk
-- 👀 my webpage :https://it-vladimirov.com
+- 👋 Hi, I’m Serhii, BackendDeveloper
+NodeJS NestJS
+- 👀 my webpage :https://bitcoders.net
 
 <!---
 vladimirovsk/vladimirovsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
