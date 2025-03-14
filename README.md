@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Serhii, BackendDeveloper
 NodeJS NestJS
-- 👀 my webpage :https://bitcoders.net
+- 👀 my webpage :https://itcoder.ca
 
 <!---
 vladimirovsk/vladimirovsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
